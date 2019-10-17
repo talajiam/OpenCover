@@ -1,0 +1,6 @@
+adminUI_coverage/
+ControlUI_coverage/
+EndUserApp_coverage/
+InstallerUI_coverage/
+OpenApi_coverage/
+service_coverage/

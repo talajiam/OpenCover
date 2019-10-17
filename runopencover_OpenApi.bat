@@ -1,0 +1,2 @@
+C:\ProjectCode\Opencover\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:C:\ProjectCode\OpenCover\runtests_OpenApi.bat -register:user -filter:"+[SportsWeb.OpenApi]* -excludebyattribute:*.ExcludeFromCodeCoverage* "
+C:\ProjectCode\Opencover\ReportGenerator.2.5.11\tools\reportgenerator.exe -reports:results.xml -targetdir:OpenApi_coverage

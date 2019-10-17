@@ -1,0 +1,1 @@
+C:\ProjectCode\Opencover\NUnit.Runners.2.6.3\tools\nunit-console.exe C:\ProjectCode\SportsWeb\src\test\Test.SportsWeb.InstallerUI\bin\Debug\Nunit.Test.SportsWeb.InstallerUI.Tests.dll /noshadow

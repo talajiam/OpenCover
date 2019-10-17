@@ -1,0 +1,2 @@
+C:\ProjectCode\Opencover\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:C:\ProjectCode\OpenCover\runtests_Admin.bat -register:user -filter:+[SportsWeb.Admin]* -excludebyattribute:*.ExcludeFromCodeCoverage* 
+C:\ProjectCode\Opencover\ReportGenerator.2.5.11\tools\reportgenerator.exe -reports:results.xml -targetdir:adminUI_coverage

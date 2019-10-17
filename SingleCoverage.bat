@@ -1,0 +1,5 @@
+C:\ProjectCode\Opencover\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:C:\ProjectCode\OpenCover\runtests_Admin.bat -register:user -filter:+[SportsWeb.Admin]* -excludebyattribute:*.ExcludeFromCodeCoverage* 
+C:\ProjectCode\Opencover\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:C:\ProjectCode\OpenCover\runtests_Installer.bat -register:user -filter:+[SportsWeb.InstallerUI]* -excludebyattribute:*.ExcludeFromCodeCoverage* 
+C:\ProjectCode\Opencover\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:C:\ProjectCode\OpenCover\runtests_Service.bat -register:user -filter:"+[SportsWeb.Services]* -[SportsWeb.Services]SportsWeb.Services.AmplightAPI.*" 
+C:\ProjectCode\Opencover\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:C:\ProjectCode\OpenCover\runtests_Controller.bat -register:user -filter:+[SportsWeb.Control]* -excludebyattribute:*.ExcludeFromCodeCoverage* 
+C:\ProjectCode\Opencover\ReportGenerator.2.5.11\tools\reportgenerator.exe -reports:results.xml -targetdir:coverage

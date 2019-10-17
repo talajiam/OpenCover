@@ -1,0 +1,7 @@
+T:\SIP_PCT_DIGSI_BLR\packages\OpenCover.4.5.3723\SampleSln\BomTest\bin\Debug\BomTest.dll
+T:\SIP_PCT_DIGSI_BLR\packages\OpenCover.4.5.3723\SampleSln\BomTest\bin\Debug\BomTest.pdb
+T:\SIP_PCT_DIGSI_BLR\packages\OpenCover.4.5.3723\SampleSln\BomTest\bin\Debug\Bom.dll
+T:\SIP_PCT_DIGSI_BLR\packages\OpenCover.4.5.3723\SampleSln\BomTest\bin\Debug\Bom.pdb
+T:\SIP_PCT_DIGSI_BLR\packages\OpenCover.4.5.3723\SampleSln\BomTest\obj\Debug\BomTest.csprojResolveAssemblyReference.cache
+T:\SIP_PCT_DIGSI_BLR\packages\OpenCover.4.5.3723\SampleSln\BomTest\obj\Debug\BomTest.dll
+T:\SIP_PCT_DIGSI_BLR\packages\OpenCover.4.5.3723\SampleSln\BomTest\obj\Debug\BomTest.pdb

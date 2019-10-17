@@ -1,0 +1,3 @@
+BomTest.BomManagerTests.Sum_Is_Calculated_Correctly_When_Entries_Supplied
+BomTest.BomManagerTests.Sum_Is_Zero_When_No_Entries
+BomTest.BomManagerTests.Sum_Is_Zero_When_Null_Collection
